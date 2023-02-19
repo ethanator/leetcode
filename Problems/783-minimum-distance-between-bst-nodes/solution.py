@@ -1,5 +1,5 @@
 import sys
-from tree_node import TreeNode
+from tree import TreeNode
 from typing import Optional
 
 
