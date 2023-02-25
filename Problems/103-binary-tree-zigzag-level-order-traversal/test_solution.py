@@ -1,6 +1,5 @@
 from solution import Solution
 from tree import build_tree
-from typing import List
 
 
 def test_solution():
